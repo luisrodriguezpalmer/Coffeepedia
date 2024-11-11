@@ -1,0 +1,15 @@
+body {background-image: url(images/cubancoffee.webp); background-repeat: no-repeat; background-attachment: fixed;
+background-size: cover;}
+
+h1 {color:chocolate; text-align: center; background-color: aliceblue;}
+
+.grid-container {display: grid; grid-template-columns: auto auto auto; column-gap: 5px;}
+
+#cil {text-align: center; color: whitesmoke; border-style:solid; padding: 5px; background-color: brown; 
+    border-color: black; border-width: 4px; float: left; font-size: large;}
+#cic {text-align: center; color: whitesmoke; border-style:solid; padding: 5px; background-color: rgb(226, 147, 51); 
+    border-color: black; border-width: 4px; float: center; font-size: large;}
+#cir {text-align: center; color: whitesmoke; border-style:solid; padding: 5px; background-color: rgb(116, 66, 5); 
+    border-color: black; border-width: 4px; float: center; font-size: large;}
+
+    
