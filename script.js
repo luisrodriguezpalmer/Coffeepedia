@@ -1,4 +1,4 @@
- const apiUrl = 'https://sampleapis.com/api-list/coffee/hot';
+ const apiUrl = 'https://cors-anywhere.herokuapp.com/https://sampleapis.com/api-list/coffee/hot';
 
  const coffeeContainer = document.getElementById('coffee-container');
 
